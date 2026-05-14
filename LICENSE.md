@@ -1,4 +1,4 @@
-# 
+# Enhance DaVinci Resolve for macOS with DaVinci Resolve for macOS custom Overlay: text-animation & color-correction, the #1 overlay. Includes text-animation and color-correction
 
 
 
